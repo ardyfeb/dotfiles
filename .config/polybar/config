@@ -54,7 +54,6 @@ tray-position = right
 tray-padding = 2
 tray-background = ${colors.black}
 
-
 ;override-redirect = true
 
 cursor-click = pointer

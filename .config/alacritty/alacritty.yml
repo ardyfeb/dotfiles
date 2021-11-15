@@ -17,6 +17,12 @@ font:
    family: Dank Mono
    style: Regular
 
+  offset:
+    y: 6
+
+  glyph_offset:
+    y: 3
+
 colors:
   primary:
     background: '#24283b'
